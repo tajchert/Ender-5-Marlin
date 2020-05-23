@@ -27,3 +27,4 @@ In my case I had to call additionaly `M502` and `M500` (due to "Err: EEprom vers
 
 * Check if there is any better Configuration file out there
 * Automatize releases and triggers if possible compiling firmware based on new Marlin releases in the cloud so it is automatic and always up to date.
+* Set home to top-right corner as currently it goes to bottom left after the print.
